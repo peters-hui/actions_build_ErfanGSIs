@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V11.0.2.0.QFGCNXM/miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
+  ROM_URL: thunder://QUFodHRwczovL2h1Z2VvdGEuZC5taXVpLmNvbS9WMTEuMC4yLjAuUUZHQ05YTS9taXVpX0xBVkVOREVSX1YxMS4wLjIuMC5RRkdDTlhNX2YxZWNlNzg2Y2ZfMTAuMC56aXBaWg==
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
